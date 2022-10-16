@@ -1,5 +1,5 @@
 <h2>
-Curso Collections Java Dio
+Rainbow Colors 🌈 Curso Collections Java Dio
 </h2>
 
 <p>Resolução do exercício sobre a Collection SET: <strong>CURSO COLLECTIONS FRAMEWORK JAVA</strong>.
